@@ -1,7 +1,7 @@
 
 Links
 - 📝 기술 블로그: 
-- 📘 Notion 이력서: (https://www.notion.so/2d9f4861404681b5ab3ace5327ac795d?source=copy_link)
+- 📘 Notion 이력서: [(https://www.notion.so/2d9f4861404681b5ab3ace5327ac795d?source=copy_link)](https://www.notion.so/2d9f4861404681b5ab3ace5327ac795d?v=2d9f4861404680b08bbf000c56ab9963&source=copy_link)
 
 ---
 Tech Stack
