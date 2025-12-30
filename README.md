@@ -35,5 +35,5 @@ Tech Stack
 ## 📌 Projects
 
 ### 🧾 자격증 통합 정보 서비스 (졸업작품)
-**역할:** Frontend + 인증 로직 설계 참여  
+**역할:** Frontend + Backend + 유저 기능 구현
 **Tech:** React, TypeScript, Spring Boot, JWT, Redis
