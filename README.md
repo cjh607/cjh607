@@ -1,10 +1,10 @@
 
-## 🔗 Links
+Links
 - 📝 기술 블로그: 
 - 📘 Notion 이력서: (https://www.notion.so/2d9f4861404681b5ab3ace5327ac795d?source=copy_link)
 
 ---
-## 🛠 Tech Stack
+Tech Stack
 
 ### Frontend
 - React, TypeScript
