@@ -17,6 +17,7 @@ Tech Stack
 - Spring Boot
 - REST API 설계
 - JWT 인증 / Cookie 기반 세션
+- oauth
 - Redis
 - MySQL
 
