@@ -10,14 +10,14 @@ Tech Stack
 - React, TypeScript
 - Vite
 - Feature-Sliced Design (FSD)
-- Axios, React Query
+- Axios
 - HTML5 / CSS3 / JavaScript (ES6+)
 
 ### Backend / Server
 - Spring Boot
 - REST API 설계
 - JWT 인증 / Cookie 기반 세션
-- Redis (세션, 토큰 관리)
+- Redis
 - MySQL
 
 ### Dev & Infra
