@@ -29,4 +29,5 @@ Tech Stack
 
 ### 🧾 자격증 통합 정보 서비스 (졸업작품)
 **역할:** Frontend + Backend + 유저 기능 구현
+\n
 **Tech:** React, TypeScript, Spring Boot, JWT, Redis
