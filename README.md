@@ -1,18 +1,16 @@
 
 Links
-- 📝 기술 블로그: 
 - 📘 Notion 이력서: https://ethereal-lyre-bc1.notion.site/2d9f4861404681b5ab3ace5327ac795d?source=copy_link
 
 ---
 Tech Stack
 
 ### Frontend
-- React
-- Vite
+- React + Vite
 - Feature-Sliced Design (FSD)
 - HTML5 / CSS3 / JavaScript / TypeScript
 
-### Backend / Server
+### Backend
 - Spring Boot
 - REST API 설계
 - JWT 인증 / Cookie 기반 세션
